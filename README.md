@@ -18,6 +18,7 @@
 
 [![Lorin-github](https://github-readme-stats.vercel.app/api?username=weianke&count_private=true&show_icons=true&theme=merko)]
 
+[![Lorin-github](https://github-profile-trophy.vercel.app/?username=weianke)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Hi! Nice to meet you!
 
