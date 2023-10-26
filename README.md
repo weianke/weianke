@@ -16,7 +16,7 @@
 <p><b>Technology has the power to make the world a better place</b></p>
 </div>
 
-[weianke-github](https://github-readme-stats.vercel.app/api?username=weianke&count_private=true&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weianke&count_private=true&show_icons=true&theme=merko)
 
 
 ## Hi! Nice to meet you!
