@@ -16,6 +16,9 @@
 <p><b>Technology has the power to make the world a better place</b></p>
 </div>
 
+[![Lorin-github](https://github-readme-stats.vercel.app/api?username=Lorin-github)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Hi! Nice to meet you!
 
 <!-- 个人简介 -->
