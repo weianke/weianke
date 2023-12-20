@@ -20,6 +20,3 @@
 
 
 ## Hi! Nice to meet you!
-
-<!-- 个人简介 -->
-- 👋 Hi, I’m @anke
